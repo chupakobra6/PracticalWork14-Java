@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/first_item"
+        android:icon="@drawable/baseline_scuba_diving_24"
+        android:title="Первый фрагмент" />
+    <item
+        android:id="@+id/second_item"
+        android:icon="@drawable/baseline_scatter_plot_24"
+        android:title="Второй фрагмент" />
+    <item
+        android:id="@+id/third_item"
+        android:icon="@drawable/baseline_settings_24"
+        android:title="Третий фрагмент" />
+</menu>
